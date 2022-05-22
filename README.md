@@ -6,16 +6,17 @@ W.Avy is an investor who would like to invest in my Surf n' Shake shop! We are l
 ## Results
 ### Deliverable 1: June Summary Statistics
 
-<img width="135" alt="image" src="https://user-images.githubusercontent.com/101374716/169714770-bf4cf48a-61ad-4071-b625-e7b9a0894806.png">
-
 Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
+
+<img width="135" alt="image" src="https://user-images.githubusercontent.com/101374716/169714770-bf4cf48a-61ad-4071-b625-e7b9a0894806.png">
 
 
 ### Deliverable 2: Decemember Summary Statistics
 
+Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
+
 <img width="130" alt="image" src="https://user-images.githubusercontent.com/101374716/169714806-110c6acd-70e8-4d9f-9ce4-32a82ee2cf72.png">
 
-Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
 
 ## Summary
 
